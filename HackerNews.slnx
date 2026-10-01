@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HackerNews.Api.Tests/HackerNews.Api.Tests.csproj" Id="81e6a386-af4c-4c90-ac4a-0f2ceb9a129b" />
+  <Project Path="HackerNews.Api/HackerNews.Api.csproj" />
+</Solution>
